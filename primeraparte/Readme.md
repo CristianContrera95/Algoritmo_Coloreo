@@ -8,8 +8,7 @@ $make
 $./Greedy < Grafo_Ejemplo
 
 Se pueden descargar grafos mas grandes en:
-http://www.famaf.unc.edu.ar/~penazzi/DisII2016/Corrdeotrapagina/GrafosOtros.html
-http://www.famaf.unc.edu.ar/~penazzi/DisII2016/GrafosDeEjemplos.html
+goo.gl/NP5Tyt
 
 
 #### Como esta organizado el proyecto
