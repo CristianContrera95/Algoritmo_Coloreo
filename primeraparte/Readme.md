@@ -1,5 +1,3 @@
-## Proyecto de Matematica discreta II
-
 ###  Cristian Contrera | cristiancontrera95@gmail.com
 
 Un algoritmo de coloreo de grafos hecho en C99.
